@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**canwoh/canwoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ch-Lee1/ch-Lee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A programmer who can't do anything.<br/>
+And hungry for knowledge!  :)<br/>  
+keep study!<br/>
+🌱 I’m currently learning JavaScript.<br/>
+🤔 I'm looking for a front-end learning community(*-.-)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-Lee1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
