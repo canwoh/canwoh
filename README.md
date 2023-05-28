@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A programmer who can't do anything.<br/>
-And hungry for knowledge!  :)<br/>  
-keep study!<br/>
-🌱 I’m currently learning go  ~zaza:>.<br/>
-🤔 I'm looking for a front-end learning community(*-.-)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canwoh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
